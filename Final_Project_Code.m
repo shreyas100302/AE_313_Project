@@ -7,7 +7,7 @@ clc;clear;
 
 % Constants and Derivations
 
-mu = 398600;
+mu = 398600; %Git test
 
 I_hat = [1 0 0];
 J_hat = [0 1 0];
